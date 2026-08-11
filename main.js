@@ -280,7 +280,7 @@ class ChecklistData {
                         name: "Transmutacja Dusz Bossów (Ludleth)",
                         items: [
                             { id: "s_28", name: "Deep Soul", desc: "Transmutacja: Soul of the Deacons of the Deep u Ludletha." },
-                            { id: "s_32", name: "Crystal Hail", desc: "Loot: Transmutacja Soul of Crystal Sage u Ludletha." },
+                            { id: "s_33", name: "Crystal Hail", desc: "Loot: Transmutacja Soul of Crystal Sage u Ludletha." },
                             { id: "s_34", name: "White Dragon Breath", desc: "Transmutacja: Soul of Consumed Oceiros u Ludletha." }
                         ]
                     }
