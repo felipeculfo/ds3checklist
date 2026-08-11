@@ -511,7 +511,7 @@ class ChecklistData {
                             { id: "rng_11", name: "Poisonbite Ring +1", desc: "NG+: Undead Settlement przy studni w osadzie." },
                             // { id: "rng_12", name: "Cursebite Ring +1", desc: "NG+: Cathedral of the Deep przy dachu." },
                             { id: "rng_13", name: "Fleshbite Ring +1", desc: "NG+: High Wall of Lothric przy dachu." },
-                            { id: "rng_14", name: "Covetous Gold Serpent Ring +1", desc: "NG+: Irithyll Dungeon na balkonie." },
+                            { id: "rng_14", name: "Covetous Gold Serpent Ring +1", desc: "NG+: Irithyll pod balkonem." },
                             { id: "rng_15", name: "Covetous Silver Serpent Ring +1", desc: "NG+: Farron Keep przy drabinie do wilka." },
                             { id: "rng_16", name: "Lingering Dragoncrest Ring +1", desc: "NG+: Road of Sacrifices przy ruinach." },
                             { id: "rng_17", name: "Sage Ring +1", desc: "NG+: Grand Archives na gzymsie." },
