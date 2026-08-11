@@ -149,14 +149,16 @@ class ChecklistData {
                     {
                         name: "Domyślne",
                         items: [
-                            { id: "g_1", name: "Point Forward / Point Up / Point Down", desc: "Dostępne od początku gry." },
-                            { id: "g_2", name: "Beckon / Call Over / Wave / Welcome", desc: "Dostępne od początku gry." }
+                            { id: "g_1", name: "Point Forward / Point Up / Point Down / Wave", desc: "Dostępne od początku gry." },
                         ]
                     },
                     {
                         name: "Zadania NPC i Wydarzenia",
                         items: [
-                            { id: "g_3", name: "Applaud", desc: "Wątek: Leonhard – porozmawiaj z nim w Firelink Shrine po zdobyciu pierwszego Pale Tongue." },
+                            { id: "g_2", name: "Beckon", desc: "Wątek: Yoel of Londor - zwerbuj go pod ścianą Lothric. Porozmawiaj z nim w Firelink do odebrania gestu" },
+                            { id: "g_24", name: "Call Over", desc: "Pump-a-Rum Crow: Przehandluj Homeward Bone na gest" },
+                            { id: "g_25", name: "Welcome", desc: "Wątek: Cornyx of the Great Swamp - w trakcie questline'u" }
+                            { id: "g_3", name: "Applause", desc: "Wątek: Leonhard – porozmawiaj z nim w Firelink Shrine po zdobyciu pierwszego Pale Tongue." },
                             { id: "g_4", name: "Quiet Resolve", desc: "Wątek: Anri z Astory – porozmawiaj w Catacombs of Carthus." },
                             { id: "g_5", name: "Rejoice", desc: "Wątek: Siegward z Catariny – po pokonaniu ognistego demona w Undead Settlement." },
                             { id: "g_6", name: "Hurrah!", desc: "Wątek: Blacksmith Andre – porozmawiaj z nim w Firelink Shrine." },
