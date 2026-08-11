@@ -149,7 +149,7 @@ class ChecklistData {
                     {
                         name: "Domyślne",
                         items: [
-                            { id: "g_1", name: "Point Forward / Point Up / Point Down / Wave", desc: "Dostępne od początku gry." },
+                            { id: "g_1", name: "Point Forward / Point Up / Point Down / Wave / Jump for Joy / Joy / Bow", desc: "Dostępne od początku gry." },
                         ]
                     },
                     {
@@ -157,7 +157,7 @@ class ChecklistData {
                         items: [
                             { id: "g_2", name: "Beckon", desc: "Wątek: Yoel of Londor - zwerbuj go pod ścianą Lothric. Porozmawiaj z nim w Firelink do odebrania gestu" },
                             { id: "g_24", name: "Call Over", desc: "Pump-a-Rum Crow: Przehandluj Homeward Bone na gest" },
-                            { id: "g_25", name: "Welcome", desc: "Wątek: Cornyx of the Great Swamp - w trakcie questline'u" }
+                            { id: "g_25", name: "Welcome", desc: "Wątek: Cornyx of the Great Swamp - w trakcie questline'u" },
                             { id: "g_3", name: "Applause", desc: "Wątek: Leonhard – porozmawiaj z nim w Firelink Shrine po zdobyciu pierwszego Pale Tongue." },
                             { id: "g_4", name: "Quiet Resolve", desc: "Wątek: Anri z Astory – porozmawiaj w Catacombs of Carthus." },
                             { id: "g_5", name: "Rejoice", desc: "Wątek: Siegward z Catariny – po pokonaniu ognistego demona w Undead Settlement." },
@@ -172,10 +172,12 @@ class ChecklistData {
                             { id: "g_14", name: "By My Sword", desc: "NPC: Gotthard – przyzwij go do walki z Abyss Watchers lub Pontiff Sulyvahn." },
                             { id: "g_15", name: "Joy", desc: "Wątek: Blacksmith Andre – po przekazaniu dowolnego węgla (Coal)." },
                             { id: "g_16", name: "Collapse", desc: "Wątek: Hawkwood – porozmawiaj z nim w Firelink Shrine na początku gry." },
-                            { id: "g_17", name: "Pathetic", desc: "Wątek: Hawkwood – porozmawiaj z nim po pokonaniu Abyss Watchers." },
+                            { id: "g_17", name: "Silent Ally", desc: "Wątek: Orbeck of Vinheim – zakup Aural Decoy, Farron Flashsword, Pestilent Mist, and Spook. Porozmawiaj z nim po zakupach." },
                             { id: "g_18", name: "Curl", desc: "Wątek: Greirat z Osady Nieboszczyków – po odzyskaniu Loretta's Bone." },
                             { id: "g_19", name: "Stretch Out", desc: "Lokacja: Profaned Capital – przy zwłokach obok pierwszego ogniska." },
                             { id: "g_20", name: "Sleep", desc: "Wątek: Siegward – porozmawiaj z nim, gdy zasypia po walce z demonem lub w kuchni w Irithyll." },
+                            { id: "g_26", name: "Patches Squat", desc: "Wątek: Unbreakable Patches - Porozmawiaj z nim w Firelink kiedy ma tę poze." },
+                            { id: "g_27", name: "Prostraion", desc: "Wątek: Unbreakable Patches - Nie przebaczaj mu po zdradzie w Katedrze Głębin lub w Firelink" },
                             { id: "g_21", name: "Rest", desc: "Lokacja: Odpocznij po raz pierwszy przy dowolnym ognisku." },
                             { id: "g_22", name: "Prayer", desc: "Wątek: Irina z Carim – porozmawiaj po wyciągnięciu jej z celi w Undead Settlement." },
                             { id: "g_23", name: "Path of the Dragon", desc: "Lokacja: Consumed King's Garden – zwiń ze zwłok po pokonaniu bossa Oceiros." }
@@ -509,8 +511,8 @@ class ChecklistData {
                             { id: "rng_11", name: "Poisonbite Ring +1", desc: "NG+: Undead Settlement przy studni w osadzie." },
                             // { id: "rng_12", name: "Cursebite Ring +1", desc: "NG+: Cathedral of the Deep przy dachu." },
                             { id: "rng_13", name: "Fleshbite Ring +1", desc: "NG+: High Wall of Lothric przy dachu." },
-                            { id: "rng_14", name: "Covetous Gold Serpent Ring +1", desc: "NG+: Irithyll Dungeon na balkonie." },
-                            { id: "rng_15", name: "Covetous Silver Serpent Ring +1", desc: "NG+: Farron Keep przy drabinie do wilka." },
+                            { id: "rng_14", name: "Covetous Gold Serpent Ring +1", desc: "NG+: Irithyll pod balkonem balkonie." },
+                            { id: "rng_15", name: "Covetous Silver Serpent Ring +1", desc: "NG+: Irithyll Dungeon winda od stóp giganta." },
                             { id: "rng_16", name: "Lingering Dragoncrest Ring +1", desc: "NG+: Road of Sacrifices przy ruinach." },
                             { id: "rng_17", name: "Sage Ring +1", desc: "NG+: Grand Archives na gzymsie." },
                             { id: "rng_18", name: "Wood Grain Ring +1", desc: "NG+: Consumed King's Garden za windą." },
